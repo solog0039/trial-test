@@ -1,2 +1,4 @@
 *.agdai
 MAlonzo/**
+# .gitignore
+node_modules/
